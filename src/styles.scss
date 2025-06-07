@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+
+:root {
+    --background-color: #F9FAFB;
+    --primary-text-color: #111827;
+    --segundary-text-color: #6B7280;
+    --action-color: #2563EB;
+    --hover-color: #1D4ED8;
+    --shadow-color: #E5E7EB;
+}
+
+* {
+    font-size: 1em;
+    font-family: monospace;
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
