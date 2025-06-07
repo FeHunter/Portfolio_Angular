@@ -1,12 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
 
 :root {
+    // light theme
     --background-color: #F9FAFB;
     --primary-text-color: #111827;
     --segundary-text-color: #6B7280;
     --action-color: #2563EB;
     --hover-color: #1D4ED8;
     --shadow-color: #E5E7EB;
+
+    // dark theme
+    // --background-color: #111827;
+    // --primary-text-color: #F9FAFB;
+    // --segundary-text-color: #9CA3AF;
+    // --action-color: #3B82F6;
+    // --hover-color: #60A5FA;
+    // --shadow-color: #1F2937;
 }
 
 * {
